@@ -1,0 +1,5 @@
+[
+  {"id": "demo-001", "text": "Synthetic positive message", "label": "positive"},
+  {"id": "demo-002", "text": "Synthetic negative message", "label": "negative"},
+  {"id": "demo-003", "text": "Synthetic neutral message", "label": "neutral"}
+]
